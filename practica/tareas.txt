@@ -1,0 +1,5 @@
+1:Limpiar toda mi casa
+2:Hacer mis tareas de colegio
+3:Tender mi cama
+4:Limpiar el hogar del hamster
+5:Hacer mi comida
