@@ -46,11 +46,15 @@ body {
         var(--color-secundario)
     );
 
-    color: white;
+    color: rgb(7, 135, 240);
 }
 
 .hero-content {
     animation: aparecer 1.5s ease;
+}
+
+.imagen {
+    width: 150px;
 }
 
 .hero h1 {
