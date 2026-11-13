@@ -1,0 +1,11 @@
+print("============la mejor calculadora============");
+x = input("escribe un numero al asar:   ")
+y = input("escribe otro numero:  ")
+x = int(x)
+y = int(y)
+print("el resultado de la multiplicacion es:  ",x*y)
+print("el resultado de la division es:  ",x/y)
+print("el resultado de la suma es:  ",x+y)
+print("el resultado de la resta es:  ",x-y)
+print("el resultado de laradicacion es:",x**(1/y))
+print("el resultado de la potencia es:",x**y)
